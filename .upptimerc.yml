@@ -6,7 +6,7 @@ sites:
   - name: Blog
     url: https://g11s.cc
   - name: k3s Swagger UI
-    url: http://k3s.g11s.cc/swagger/index.html
+    url: https://k3s.g11s.cc/swagger/index.html
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
