@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/k3s.g11s.cc",
     "slug": "k3s-swagger-ui",
     "status": "up",
-    "uptime": "78.19%",
+    "uptime": "78.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "78.19%",
+    "uptimeYear": "78.63%",
     "time": 808,
     "timeDay": 840,
     "timeWeek": 651,
@@ -71,9 +71,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -82,7 +82,9 @@
     "timeWeek": 185,
     "timeMonth": 187,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "Hacker News",
