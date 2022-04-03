@@ -1,22 +1,22 @@
 [
   {
     "name": "Blog",
-    "url": "https://g11s.cc",
-    "icon": "https://favicons.githubusercontent.com/g11s.cc",
+    "url": "https://gerrit.codes",
+    "icon": "https://favicons.githubusercontent.com/gerrit.codes",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 188,
-    "timeWeek": 144,
-    "timeMonth": 130,
-    "timeYear": 132,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 135,
+    "timeDay": 242,
+    "timeWeek": 167,
+    "timeMonth": 137,
+    "timeYear": 135,
     "dailyMinutesDown": {
-      "2022-04-03": 0
+      "2022-04-03": 21
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.64%",
-    "time": 949,
-    "timeDay": 5741,
-    "timeWeek": 2564,
-    "timeMonth": 1244,
-    "timeYear": 949,
+    "time": 950,
+    "timeDay": 4590,
+    "timeWeek": 2422,
+    "timeMonth": 1240,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2022-02-19": 60,
       "2022-01-30": 807,
@@ -62,9 +62,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 81,
-    "timeWeek": 97,
-    "timeMonth": 101,
+    "timeDay": 77,
+    "timeWeek": 94,
+    "timeMonth": 100,
     "timeYear": 97,
     "dailyMinutesDown": {}
   },
@@ -80,9 +80,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 198,
-    "timeDay": 143,
-    "timeWeek": 168,
-    "timeMonth": 176,
+    "timeDay": 130,
+    "timeWeek": 162,
+    "timeMonth": 174,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2022-03-01": 35
@@ -99,11 +99,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 64,
-    "timeWeek": 166,
-    "timeMonth": 184,
-    "timeYear": 213,
+    "time": 211,
+    "timeDay": 69,
+    "timeWeek": 154,
+    "timeMonth": 181,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   }
 ]
