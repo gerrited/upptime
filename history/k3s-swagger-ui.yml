@@ -1,7 +1,7 @@
 url: https://k3s.g11s.cc/swagger/index.html
-status: up
-code: 200
-responseTime: 1092
-lastUpdated: 2022-04-10T03:38:49.656Z
+status: down
+code: 502
+responseTime: 23754
+lastUpdated: 2022-04-10T05:08:18.239Z
 startTime: Sun Jan 16 2022 15:38:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
