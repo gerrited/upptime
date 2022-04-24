@@ -11,9 +11,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.93%",
     "time": 160,
-    "timeDay": 58,
-    "timeWeek": 247,
-    "timeMonth": 227,
+    "timeDay": 185,
+    "timeWeek": 250,
+    "timeMonth": 226,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2022-04-03": 101
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/k3s.g11s.cc",
     "slug": "k3s-swagger-ui",
     "status": "up",
-    "uptime": "83.77%",
+    "uptime": "83.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "79.69%",
-    "uptimeYear": "83.77%",
-    "time": 1427,
-    "timeDay": 508,
-    "timeWeek": 638,
+    "uptimeYear": "83.94%",
+    "time": 1422,
+    "timeDay": 802,
+    "timeWeek": 639,
     "timeMonth": 2224,
-    "timeYear": 1427,
+    "timeYear": 1422,
     "dailyMinutesDown": {
       "2022-04-15": 99,
       "2022-04-14": 49,
@@ -75,8 +75,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 72,
-    "timeWeek": 82,
+    "timeDay": 84,
+    "timeWeek": 80,
     "timeMonth": 85,
     "timeYear": 93,
     "dailyMinutesDown": {}
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 205,
-    "timeDay": 211,
-    "timeWeek": 205,
+    "time": 204,
+    "timeDay": 125,
+    "timeWeek": 189,
     "timeMonth": 212,
-    "timeYear": 205,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2022-03-01": 35
     }
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 352,
-    "timeWeek": 203,
+    "time": 208,
+    "timeDay": 104,
+    "timeWeek": 202,
     "timeMonth": 192,
-    "timeYear": 209,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   }
 ]
