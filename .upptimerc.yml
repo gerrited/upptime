@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Blog
     url: https://gerrit.codes
-  - name: k3s Swagger UI
-    url: https://k3s.g11s.cc/swagger/index.html
+  - name: k3s WeatherForecast
+    url: https://k3s.g11s.cc/WeatherForecast
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
@@ -28,7 +28,7 @@ status-website:
     - title: Status
       href: /
     - title: Blog
-      href: https://g11s.cc
+      href: https://gerrit.codes
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
