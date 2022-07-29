@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 210,
-    "timeDay": 306,
-    "timeWeek": 337,
-    "timeMonth": 267,
+    "timeDay": 94,
+    "timeWeek": 292,
+    "timeMonth": 262,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2022-04-03": 101
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/k3s.g11s.cc",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 706,
-    "timeDay": 825,
-    "timeWeek": 804,
-    "timeMonth": 706,
-    "timeYear": 706,
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 700,
+    "timeDay": 529,
+    "timeWeek": 780,
+    "timeMonth": 700,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2022-07-07": 100
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 92,
-    "timeDay": 109,
-    "timeWeek": 97,
-    "timeMonth": 104,
+    "timeDay": 83,
+    "timeWeek": 96,
+    "timeMonth": 105,
     "timeYear": 92,
     "dailyMinutesDown": {}
   },
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 202,
-    "timeDay": 258,
-    "timeWeek": 226,
-    "timeMonth": 197,
-    "timeYear": 202,
+    "time": 204,
+    "timeDay": 488,
+    "timeWeek": 282,
+    "timeMonth": 209,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2022-03-01": 35
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "99.90%",
-    "time": 221,
-    "timeDay": 307,
-    "timeWeek": 279,
-    "timeMonth": 286,
-    "timeYear": 221,
+    "time": 223,
+    "timeDay": 495,
+    "timeWeek": 331,
+    "timeMonth": 291,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2022-07-08": 517
     }
