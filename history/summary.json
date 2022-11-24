@@ -25,7 +25,7 @@
     "url": "https://k3s.g11s.cc/WeatherForecast",
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
-    "status": "up",
+    "status": "down",
     "uptime": "97.23%",
     "uptimeDay": "69.42%",
     "uptimeWeek": "95.63%",
