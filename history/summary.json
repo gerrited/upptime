@@ -4,18 +4,20 @@
     "url": "https://gerrit.codes",
     "icon": "https://icons.duckduckgo.com/ip3/gerrit.codes.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 207,
-    "timeWeek": 246,
-    "timeMonth": 302,
+    "timeDay": 279,
+    "timeWeek": 259,
+    "timeMonth": 303,
     "timeYear": 294,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "k3s WeatherForecast",
@@ -26,7 +28,7 @@
     "uptime": "56.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.92%",
+    "uptimeMonth": "59.07%",
     "uptimeYear": "46.28%",
     "time": 720,
     "timeDay": 389,
