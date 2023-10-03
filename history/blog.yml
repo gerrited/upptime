@@ -1,7 +1,7 @@
 url: https://gerrit.codes
-status: up
-code: 200
-responseTime: 207
-lastUpdated: 2023-10-02T23:12:36.657Z
+status: down
+code: 502
+responseTime: 350
+lastUpdated: 2023-10-03T02:06:10.160Z
 startTime: 2022-01-16T15:05:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
