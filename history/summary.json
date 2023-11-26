@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 277,
-    "timeWeek": 262,
-    "timeMonth": 313,
+    "timeDay": 336,
+    "timeWeek": 268,
+    "timeMonth": 310,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2023-10-03": 20
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "60.72%",
+    "uptime": "60.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.80%",
+    "uptimeYear": "47.07%",
     "time": 703,
-    "timeDay": 369,
-    "timeWeek": 458,
-    "timeMonth": 455,
-    "timeYear": 460,
+    "timeDay": 596,
+    "timeWeek": 489,
+    "timeMonth": 458,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2023-09-15": 777,
       "2023-09-14": 1440,
@@ -236,8 +236,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   },
   {
@@ -252,9 +251,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 58,
-    "timeWeek": 72,
-    "timeMonth": 96,
+    "timeDay": 84,
+    "timeWeek": 73,
+    "timeMonth": 95,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -270,9 +269,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 153,
-    "timeWeek": 169,
-    "timeMonth": 166,
+    "timeDay": 29,
+    "timeWeek": 144,
+    "timeMonth": 161,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2023-01-25": 28
@@ -290,10 +289,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 302,
-    "timeDay": 382,
-    "timeWeek": 327,
-    "timeMonth": 285,
-    "timeYear": 301,
+    "timeDay": 147,
+    "timeWeek": 304,
+    "timeMonth": 281,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2023-10-28": 16,
       "2023-10-11": 20,
