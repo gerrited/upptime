@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 291,
-    "timeWeek": 247,
-    "timeMonth": 282,
+    "timeDay": 351,
+    "timeWeek": 250,
+    "timeMonth": 287,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2023-10-03": 20
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "61.26%",
+    "uptime": "61.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.71%",
+    "uptimeYear": "48.99%",
     "time": 700,
-    "timeDay": 383,
-    "timeWeek": 396,
-    "timeMonth": 440,
-    "timeYear": 464,
+    "timeDay": 508,
+    "timeWeek": 386,
+    "timeMonth": 449,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2023-09-15": 777,
       "2023-09-14": 1440,
@@ -229,8 +229,7 @@
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -245,8 +244,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 70,
-    "timeWeek": 71,
+    "timeDay": 91,
+    "timeWeek": 72,
     "timeMonth": 78,
     "timeYear": 109,
     "dailyMinutesDown": {}
@@ -263,10 +262,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 204,
-    "timeWeek": 149,
-    "timeMonth": 166,
-    "timeYear": 217,
+    "timeDay": 108,
+    "timeWeek": 161,
+    "timeMonth": 163,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2023-01-25": 28
     }
@@ -282,11 +281,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 304,
-    "timeDay": 372,
-    "timeWeek": 345,
-    "timeMonth": 291,
-    "timeYear": 301,
+    "time": 303,
+    "timeDay": 87,
+    "timeWeek": 338,
+    "timeMonth": 285,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2023-10-28": 16,
       "2023-10-11": 20,
