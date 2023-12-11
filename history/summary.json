@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 212,
-    "timeWeek": 341,
-    "timeMonth": 273,
-    "timeYear": 295,
+    "timeDay": 664,
+    "timeWeek": 379,
+    "timeMonth": 285,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2023-10-03": 20
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "61.85%",
+    "uptime": "61.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.91%",
+    "uptimeYear": "51.18%",
     "time": 698,
-    "timeDay": 434,
-    "timeWeek": 448,
-    "timeMonth": 432,
-    "timeYear": 470,
+    "timeDay": 582,
+    "timeWeek": 478,
+    "timeMonth": 437,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2023-09-15": 777,
       "2023-09-14": 1440,
@@ -221,8 +221,7 @@
       "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
-      "2022-12-12": 1440,
-      "2022-12-11": 1440
+      "2022-12-12": 1440
     }
   },
   {
@@ -237,8 +236,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 81,
-    "timeWeek": 82,
+    "timeDay": 91,
+    "timeWeek": 85,
     "timeMonth": 77,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -254,10 +253,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 221,
-    "timeDay": 175,
-    "timeWeek": 211,
-    "timeMonth": 180,
+    "time": 220,
+    "timeDay": 135,
+    "timeWeek": 194,
+    "timeMonth": 179,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2023-01-25": 28
@@ -274,10 +273,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 304,
-    "timeDay": 271,
-    "timeWeek": 334,
-    "timeMonth": 307,
+    "time": 303,
+    "timeDay": 128,
+    "timeWeek": 289,
+    "timeMonth": 308,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2023-10-28": 16,
