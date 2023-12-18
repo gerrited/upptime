@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 52,
-    "timeWeek": 248,
-    "timeMonth": 269,
+    "time": 288,
+    "timeDay": 182,
+    "timeWeek": 179,
+    "timeMonth": 274,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2023-10-03": 20
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "62.36%",
+    "uptime": "62.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.82%",
-    "time": 696,
-    "timeDay": 210,
-    "timeWeek": 433,
+    "uptimeYear": "53.10%",
+    "time": 697,
+    "timeDay": 357,
+    "timeWeek": 401,
     "timeMonth": 431,
-    "timeYear": 475,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2023-09-15": 777,
       "2023-09-14": 1440,
@@ -214,8 +214,7 @@
       "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
-      "2022-12-19": 1440,
-      "2022-12-18": 1440
+      "2022-12-19": 1440
     }
   },
   {
@@ -230,9 +229,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 69,
+    "timeDay": 89,
     "timeWeek": 92,
-    "timeMonth": 79,
+    "timeMonth": 80,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -248,10 +247,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 238,
-    "timeWeek": 325,
+    "timeDay": 227,
+    "timeWeek": 338,
     "timeMonth": 211,
-    "timeYear": 219,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2023-01-25": 28
     }
@@ -268,9 +267,9 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.91%",
     "time": 333,
-    "timeDay": 436,
-    "timeWeek": 1995,
-    "timeMonth": 704,
+    "timeDay": 498,
+    "timeWeek": 2032,
+    "timeMonth": 738,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2023-12-15": 24,
