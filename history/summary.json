@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 65,
-    "timeWeek": 219,
-    "timeMonth": 261,
+    "time": 287,
+    "timeDay": 353,
+    "timeWeek": 252,
+    "timeMonth": 266,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2023-10-03": 20
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "63.06%",
+    "uptime": "63.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.56%",
-    "time": 694,
-    "timeDay": 378,
-    "timeWeek": 430,
-    "timeMonth": 423,
-    "timeYear": 483,
+    "uptimeYear": "55.84%",
+    "time": 693,
+    "timeDay": 338,
+    "timeWeek": 395,
+    "timeMonth": 422,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2023-09-15": 777,
       "2023-09-14": 1440,
@@ -204,8 +204,7 @@
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
-      "2022-12-29": 1440,
-      "2022-12-28": 1440
+      "2022-12-29": 1440
     }
   },
   {
@@ -220,8 +219,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 70,
-    "timeWeek": 73,
+    "timeDay": 63,
+    "timeWeek": 69,
     "timeMonth": 80,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -238,10 +237,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 150,
-    "timeWeek": 218,
-    "timeMonth": 222,
-    "timeYear": 220,
+    "timeDay": 132,
+    "timeWeek": 184,
+    "timeMonth": 221,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2023-01-25": 28
     }
@@ -258,10 +257,10 @@
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.91%",
     "time": 334,
-    "timeDay": 381,
-    "timeWeek": 347,
-    "timeMonth": 772,
-    "timeYear": 340,
+    "timeDay": 428,
+    "timeWeek": 385,
+    "timeMonth": 773,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2023-12-18": 17,
       "2023-12-15": 24,
