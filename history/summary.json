@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 284,
-    "timeWeek": 269,
-    "timeMonth": 262,
-    "timeYear": 291,
+    "timeDay": 127,
+    "timeWeek": 236,
+    "timeMonth": 254,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2023-10-03": 20
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "63.53%",
+    "uptime": "63.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.48%",
+    "uptimeYear": "57.76%",
     "time": 695,
-    "timeDay": 1839,
-    "timeWeek": 646,
-    "timeMonth": 494,
-    "timeYear": 493,
+    "timeDay": 558,
+    "timeWeek": 670,
+    "timeMonth": 500,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2023-09-15": 777,
       "2023-09-14": 1440,
@@ -197,8 +197,7 @@
       "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 1440
+      "2023-01-05": 1440
     }
   },
   {
@@ -213,8 +212,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 66,
-    "timeWeek": 75,
+    "timeDay": 77,
+    "timeWeek": 77,
     "timeMonth": 81,
     "timeYear": 107,
     "dailyMinutesDown": {}
@@ -231,9 +230,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 174,
-    "timeWeek": 290,
-    "timeMonth": 251,
+    "timeDay": 94,
+    "timeWeek": 285,
+    "timeMonth": 245,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2023-01-25": 28
@@ -250,11 +249,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.91%",
-    "time": 335,
-    "timeDay": 351,
-    "timeWeek": 415,
-    "timeMonth": 799,
-    "timeYear": 342,
+    "time": 334,
+    "timeDay": 96,
+    "timeWeek": 368,
+    "timeMonth": 788,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2023-12-18": 17,
       "2023-12-15": 24,
