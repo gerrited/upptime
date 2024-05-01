@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "70.06%",
+    "uptime": "70.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -147,18 +147,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 157,
-    "timeWeek": 143,
+    "timeDay": 142,
+    "timeWeek": 141,
     "timeMonth": 114,
     "timeYear": 101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-01": 0
+    }
   },
   {
     "name": "Wikipedia",
