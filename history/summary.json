@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 253,
-    "timeWeek": 256,
-    "timeMonth": 308,
-    "timeYear": 294,
+    "time": 295,
+    "timeDay": 596,
+    "timeWeek": 298,
+    "timeMonth": 313,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2023-10-03": 20
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "72.00%",
+    "uptime": "72.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.91%",
+    "uptimeYear": "75.18%",
     "time": 510,
-    "timeDay": 378,
-    "timeWeek": 431,
-    "timeMonth": 429,
-    "timeYear": 372,
+    "timeDay": 370,
+    "timeWeek": 432,
+    "timeMonth": 435,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2024-04-03": 32,
       "2024-03-12": 29,
@@ -128,8 +128,7 @@
       "2023-06-22": 1440,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
-      "2023-06-19": 1440,
-      "2023-06-18": 1440
+      "2023-06-19": 1440
     }
   },
   {
@@ -144,9 +143,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 56,
-    "timeWeek": 94,
-    "timeMonth": 87,
+    "timeDay": 62,
+    "timeWeek": 95,
+    "timeMonth": 84,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2024-05-01": 36
@@ -164,10 +163,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 695,
-    "timeWeek": 222,
-    "timeMonth": 221,
-    "timeYear": 204,
+    "timeDay": 177,
+    "timeWeek": 225,
+    "timeMonth": 226,
+    "timeYear": 205,
     "dailyMinutesDown": {}
   },
   {
@@ -182,10 +181,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 329,
-    "timeDay": 331,
-    "timeWeek": 338,
-    "timeMonth": 294,
-    "timeYear": 336,
+    "timeDay": 501,
+    "timeWeek": 351,
+    "timeMonth": 307,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2024-05-05": 60,
       "2024-01-10": 119,
