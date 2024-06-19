@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 195,
-    "timeWeek": 264,
-    "timeMonth": 311,
-    "timeYear": 295,
+    "time": 296,
+    "timeDay": 691,
+    "timeWeek": 357,
+    "timeMonth": 324,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2023-10-03": 20
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "72.07%",
+    "uptime": "72.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.45%",
+    "uptimeYear": "75.73%",
     "time": 511,
-    "timeDay": 868,
-    "timeWeek": 493,
-    "timeMonth": 457,
-    "timeYear": 375,
+    "timeDay": 601,
+    "timeWeek": 518,
+    "timeMonth": 464,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2024-04-03": 32,
       "2024-03-12": 29,
@@ -126,8 +126,7 @@
       "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
-      "2023-06-21": 1440,
-      "2023-06-20": 1440
+      "2023-06-21": 1440
     }
   },
   {
@@ -142,8 +141,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 84,
-    "timeWeek": 96,
+    "timeDay": 78,
+    "timeWeek": 81,
     "timeMonth": 84,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -162,10 +161,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 188,
-    "timeWeek": 229,
-    "timeMonth": 225,
-    "timeYear": 204,
+    "timeDay": 346,
+    "timeWeek": 256,
+    "timeMonth": 230,
+    "timeYear": 205,
     "dailyMinutesDown": {}
   },
   {
@@ -180,10 +179,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 329,
-    "timeDay": 74,
-    "timeWeek": 319,
-    "timeMonth": 295,
-    "timeYear": 337,
+    "timeDay": 134,
+    "timeWeek": 297,
+    "timeMonth": 288,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2024-05-05": 60,
       "2024-01-10": 119,
