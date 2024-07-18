@@ -26,17 +26,16 @@
     "slug": "k3s-weather-forecast",
     "status": "up",
     "uptime": "73.20%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "83.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "83.67%",
     "time": 517,
     "timeDay": 304,
     "timeWeek": 496,
     "timeMonth": 669,
-    "timeYear": 427,
+    "timeYear": 428,
     "dailyMinutesDown": {
-      "2024-07-17": 8,
       "2024-07-04": 31,
       "2024-04-03": 32,
       "2024-03-12": 29,
@@ -99,8 +98,7 @@
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
-      "2023-07-20": 1440,
-      "2023-07-19": 1440
+      "2023-07-20": 1440
     }
   },
   {
@@ -156,7 +154,7 @@
     "timeDay": 306,
     "timeWeek": 363,
     "timeMonth": 330,
-    "timeYear": 341,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2024-05-05": 60,
       "2024-01-10": 119,
