@@ -1,7 +1,7 @@
 url: https://k3s.g11s.cc/WeatherForecast
-status: down
-code: 502
-responseTime: 3035
-lastUpdated: 2024-07-19T11:44:48.943Z
+status: up
+code: 200
+responseTime: 775
+lastUpdated: 2024-07-19T11:50:37.804Z
 startTime: 2022-07-06T21:24:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
