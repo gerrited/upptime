@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "73.48%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "96.38%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "86.05%",
+    "uptime": "73.49%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "86.06%",
     "time": 606,
     "timeDay": 1108,
-    "timeWeek": 1056,
+    "timeWeek": 1058,
     "timeMonth": 972,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2024-07-26": 36,
+      "2024-07-26": 24,
       "2024-07-25": 44,
       "2024-07-24": 200,
       "2024-07-23": 42,
@@ -96,8 +96,7 @@
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
-      "2023-07-29": 1440,
-      "2023-07-28": 1440
+      "2023-07-29": 1440
     }
   },
   {
