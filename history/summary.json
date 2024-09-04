@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 367,
-    "timeWeek": 259,
-    "timeMonth": 273,
+    "timeDay": 260,
+    "timeWeek": 280,
+    "timeMonth": 274,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2023-10-03": 20
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "down",
-    "uptime": "70.16%",
+    "uptime": "70.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "86.52%",
     "time": 632,
-    "timeDay": 454,
-    "timeWeek": 492,
-    "timeMonth": 492,
-    "timeYear": 641,
+    "timeDay": 788,
+    "timeWeek": 541,
+    "timeMonth": 541,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2024-09-03": 20,
+      "2024-09-04": 20,
+      "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -96,8 +97,7 @@
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
-      "2023-09-06": 1440,
-      "2023-09-05": 1440
+      "2023-09-06": 1440
     }
   },
   {
@@ -112,8 +112,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 123,
-    "timeWeek": 110,
+    "timeDay": 87,
+    "timeWeek": 92,
     "timeMonth": 104,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -132,10 +132,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 208,
-    "timeWeek": 206,
+    "timeDay": 197,
+    "timeWeek": 200,
     "timeMonth": 265,
-    "timeYear": 214,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -150,10 +150,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 331,
-    "timeDay": 340,
-    "timeWeek": 297,
-    "timeMonth": 355,
-    "timeYear": 346,
+    "timeDay": 310,
+    "timeWeek": 293,
+    "timeMonth": 351,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2024-05-05": 60,
       "2024-01-10": 119,
