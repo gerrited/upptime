@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 260,
-    "timeWeek": 280,
+    "timeDay": 470,
+    "timeWeek": 302,
     "timeMonth": 274,
-    "timeYear": 291,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2023-10-03": 20
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "down",
-    "uptime": "70.07%",
+    "uptime": "69.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "86.52%",
     "time": 632,
-    "timeDay": 788,
-    "timeWeek": 541,
-    "timeMonth": 541,
-    "timeYear": 642,
+    "timeDay": 605,
+    "timeWeek": 550,
+    "timeMonth": 550,
+    "timeYear": 643,
     "dailyMinutesDown": {
-      "2024-09-04": 20,
+      "2024-09-05": 20,
+      "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -96,8 +97,7 @@
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
-      "2023-09-07": 1440,
-      "2023-09-06": 1440
+      "2023-09-07": 1440
     }
   },
   {
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 87,
-    "timeWeek": 92,
-    "timeMonth": 104,
+    "timeDay": 85,
+    "timeWeek": 91,
+    "timeMonth": 105,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2024-05-01": 36
@@ -132,9 +132,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 197,
+    "timeDay": 222,
     "timeWeek": 200,
-    "timeMonth": 265,
+    "timeMonth": 264,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -150,9 +150,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 331,
-    "timeDay": 310,
-    "timeWeek": 293,
-    "timeMonth": 351,
+    "timeDay": 306,
+    "timeWeek": 279,
+    "timeMonth": 348,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2024-05-05": 60,
