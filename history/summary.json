@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "down",
-    "uptime": "62.76%",
+    "uptime": "62.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "64.47%",
+    "uptimeYear": "64.42%",
     "time": 518,
     "timeDay": 103,
     "timeWeek": 109,
     "timeMonth": 108,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2024-12-05": 24,
+      "2024-12-05": 257,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
@@ -205,9 +205,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -216,7 +216,9 @@
     "timeWeek": 161,
     "timeMonth": 224,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-05": 0
+    }
   },
   {
     "name": "Hacker News",
