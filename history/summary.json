@@ -34,7 +34,7 @@
     "timeMonth": 108,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2024-12-05": 257,
+      "2024-12-05": 268,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
@@ -205,19 +205,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 192,
-    "timeWeek": 161,
-    "timeMonth": 224,
-    "timeYear": 218,
+    "time": 216,
+    "timeDay": 416,
+    "timeWeek": 221,
+    "timeMonth": 237,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-12-05": 0
+      "2024-12-05": 11
     }
   },
   {
