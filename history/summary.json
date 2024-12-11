@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 339,
-    "timeWeek": 246,
-    "timeMonth": 305,
-    "timeYear": 292,
+    "timeDay": 235,
+    "timeWeek": 269,
+    "timeMonth": 308,
+    "timeYear": 291,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "down",
-    "uptime": "62.41%",
+    "uptime": "62.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "63.10%",
-    "time": 506,
-    "timeDay": 81,
-    "timeWeek": 101,
+    "uptimeYear": "62.82%",
+    "time": 494,
+    "timeDay": 113,
+    "timeWeek": 102,
     "timeMonth": 108,
-    "timeYear": 586,
+    "timeYear": 585,
     "dailyMinutesDown": {
-      "2024-12-10": 24,
+      "2024-12-11": 24,
+      "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -197,9 +198,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 199,
-    "timeWeek": 119,
-    "timeMonth": 103,
+    "timeDay": 144,
+    "timeWeek": 123,
+    "timeMonth": 105,
     "timeYear": 100,
     "dailyMinutesDown": {
       "2024-05-01": 36
@@ -216,11 +217,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 264,
-    "timeWeek": 250,
-    "timeMonth": 238,
-    "timeYear": 219,
+    "time": 217,
+    "timeDay": 460,
+    "timeWeek": 280,
+    "timeMonth": 248,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -235,16 +236,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 334,
-    "timeDay": 417,
-    "timeWeek": 328,
-    "timeMonth": 286,
+    "timeDay": 354,
+    "timeWeek": 308,
+    "timeMonth": 282,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2024-05-05": 60,
       "2024-01-10": 119,
       "2023-12-18": 17,
-      "2023-12-15": 24,
-      "2023-12-12": 231
+      "2023-12-15": 24
     }
   }
 ]
