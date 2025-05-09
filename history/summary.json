@@ -34,7 +34,7 @@
     "timeMonth": 115,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2025-05-09": 585,
+      "2025-05-09": 591,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -372,19 +372,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 113,
-    "timeWeek": 254,
-    "timeMonth": 320,
-    "timeYear": 315,
+    "time": 311,
+    "timeDay": 236,
+    "timeWeek": 267,
+    "timeMonth": 321,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-05-09": 0
+      "2025-05-09": 6
     }
   }
 ]
