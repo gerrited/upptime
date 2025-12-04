@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 64,
-    "timeWeek": 446,
-    "timeMonth": 419,
-    "timeYear": 332,
+    "time": 323,
+    "timeDay": 404,
+    "timeWeek": 416,
+    "timeMonth": 423,
+    "timeYear": 333,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "down",
-    "uptime": "44.44%",
+    "uptime": "44.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 144,
-    "timeDay": 83,
-    "timeWeek": 111,
-    "timeMonth": 122,
+    "time": 138,
+    "timeDay": 161,
+    "timeWeek": 122,
+    "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-12-03": 1063,
+      "2025-12-04": 27,
+      "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -397,8 +398,7 @@
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
-      "2024-12-05": 1440,
-      "2024-12-04": 1440
+      "2024-12-05": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 73,
-    "timeWeek": 142,
-    "timeMonth": 126,
+    "timeDay": 128,
+    "timeWeek": 145,
+    "timeMonth": 127,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2025-06-29": 17,
@@ -430,18 +430,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 106,
-    "timeWeek": 270,
-    "timeMonth": 212,
-    "timeYear": 194,
-    "dailyMinutesDown": {
-      "2025-12-03": 9
-    }
+    "time": 205,
+    "timeDay": 362,
+    "timeWeek": 336,
+    "timeMonth": 234,
+    "timeYear": 195,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -455,10 +453,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 348,
-    "timeWeek": 158,
-    "timeMonth": 250,
-    "timeYear": 313,
+    "timeDay": 225,
+    "timeWeek": 159,
+    "timeMonth": 245,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   }
 ]
