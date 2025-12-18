@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 61,
-    "timeWeek": 415,
-    "timeMonth": 389,
-    "timeYear": 336,
+    "time": 324,
+    "timeDay": 100,
+    "timeWeek": 343,
+    "timeMonth": 388,
+    "timeYear": 335,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "down",
-    "uptime": "43.95%",
+    "uptime": "43.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 128,
-    "timeDay": 78,
-    "timeWeek": 101,
-    "timeMonth": 114,
+    "timeDay": 120,
+    "timeWeek": 100,
+    "timeMonth": 115,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-12-17": 983,
+      "2025-12-18": 24,
+      "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -397,8 +398,7 @@
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
-      "2024-12-19": 1440,
-      "2024-12-18": 1440
+      "2024-12-19": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 116,
-    "timeDay": 75,
-    "timeWeek": 269,
-    "timeMonth": 165,
+    "timeDay": 88,
+    "timeWeek": 262,
+    "timeMonth": 167,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-06-29": 17,
@@ -434,11 +434,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 47,
-    "timeWeek": 160,
-    "timeMonth": 230,
-    "timeYear": 193,
+    "time": 205,
+    "timeDay": 606,
+    "timeWeek": 213,
+    "timeMonth": 247,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   },
   {
@@ -448,17 +448,15 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 336,
-    "timeWeek": 327,
-    "timeMonth": 278,
+    "timeDay": 292,
+    "timeWeek": 324,
+    "timeMonth": 273,
     "timeYear": 314,
-    "dailyMinutesDown": {
-      "2025-12-17": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
