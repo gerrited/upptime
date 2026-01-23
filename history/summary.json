@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 325,
-    "timeDay": 94,
-    "timeWeek": 241,
-    "timeMonth": 281,
-    "timeYear": 333,
+    "timeDay": 466,
+    "timeWeek": 297,
+    "timeMonth": 280,
+    "timeYear": 334,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "44.54%",
+    "uptime": "44.58%",
     "uptimeDay": "97.13%",
     "uptimeWeek": "99.59%",
-    "uptimeMonth": "74.54%",
-    "uptimeYear": "6.37%",
-    "time": 143,
-    "timeDay": 356,
-    "timeWeek": 420,
-    "timeMonth": 428,
-    "timeYear": 157,
+    "uptimeMonth": "77.45%",
+    "uptimeYear": "6.61%",
+    "time": 144,
+    "timeDay": 432,
+    "timeWeek": 449,
+    "timeMonth": 444,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2026-01-22": 41,
       "2025-12-30": 1250,
@@ -375,8 +375,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   },
   {
@@ -391,9 +390,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 122,
-    "timeDay": 103,
-    "timeWeek": 352,
-    "timeMonth": 214,
+    "timeDay": 101,
+    "timeWeek": 346,
+    "timeMonth": 206,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2025-06-29": 17,
@@ -413,9 +412,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 251,
-    "timeWeek": 120,
-    "timeMonth": 193,
+    "timeDay": 393,
+    "timeWeek": 163,
+    "timeMonth": 203,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -430,11 +429,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 348,
-    "timeWeek": 286,
-    "timeMonth": 263,
-    "timeYear": 310,
+    "time": 308,
+    "timeDay": 223,
+    "timeWeek": 266,
+    "timeMonth": 267,
+    "timeYear": 309,
     "dailyMinutesDown": {}
   }
 ]
