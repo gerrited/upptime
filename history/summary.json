@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 325,
-    "timeDay": 466,
-    "timeWeek": 297,
-    "timeMonth": 280,
-    "timeYear": 334,
+    "timeDay": 460,
+    "timeWeek": 349,
+    "timeMonth": 291,
+    "timeYear": 335,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "44.58%",
-    "uptimeDay": "97.13%",
+    "uptime": "44.62%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
-    "uptimeMonth": "77.45%",
-    "uptimeYear": "6.61%",
-    "time": 144,
-    "timeDay": 432,
-    "timeWeek": 449,
-    "timeMonth": 444,
-    "timeYear": 158,
+    "uptimeMonth": "80.73%",
+    "uptimeYear": "6.89%",
+    "time": 145,
+    "timeDay": 530,
+    "timeWeek": 465,
+    "timeMonth": 456,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2026-01-22": 41,
       "2025-12-30": 1250,
@@ -374,8 +374,7 @@
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
-      "2025-01-25": 1440,
-      "2025-01-24": 1440
+      "2025-01-25": 1440
     }
   },
   {
@@ -390,9 +389,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 122,
-    "timeDay": 101,
-    "timeWeek": 346,
-    "timeMonth": 206,
+    "timeDay": 102,
+    "timeWeek": 347,
+    "timeMonth": 207,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2025-06-29": 17,
@@ -412,10 +411,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 393,
-    "timeWeek": 163,
-    "timeMonth": 203,
-    "timeYear": 192,
+    "timeDay": 306,
+    "timeWeek": 180,
+    "timeMonth": 215,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   },
   {
@@ -430,9 +429,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 223,
-    "timeWeek": 266,
-    "timeMonth": 267,
+    "timeDay": 246,
+    "timeWeek": 237,
+    "timeMonth": 261,
     "timeYear": 309,
     "dailyMinutesDown": {}
   }
