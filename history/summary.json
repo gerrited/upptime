@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 446,
-    "timeWeek": 398,
-    "timeMonth": 357,
+    "timeDay": 364,
+    "timeWeek": 376,
+    "timeMonth": 360,
     "timeYear": 343,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "46.06%",
+    "uptime": "46.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "16.39%",
-    "time": 173,
-    "timeDay": 434,
-    "timeWeek": 589,
-    "timeMonth": 497,
-    "timeYear": 197,
+    "uptimeYear": "16.47%",
+    "time": 174,
+    "timeDay": 345,
+    "timeWeek": 563,
+    "timeMonth": 495,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2026-02-26": 21,
       "2026-01-22": 41,
@@ -340,8 +340,7 @@
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
-      "2025-03-01": 1440,
-      "2025-02-28": 1440
+      "2025-03-01": 1440
     }
   },
   {
@@ -356,9 +355,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 129,
-    "timeDay": 268,
-    "timeWeek": 302,
-    "timeMonth": 241,
+    "timeDay": 73,
+    "timeWeek": 299,
+    "timeMonth": 234,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2026-01-28": 20,
@@ -379,10 +378,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 168,
-    "timeWeek": 168,
-    "timeMonth": 184,
-    "timeYear": 198,
+    "timeDay": 78,
+    "timeWeek": 140,
+    "timeMonth": 180,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -392,17 +391,15 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 201,
-    "timeWeek": 238,
-    "timeMonth": 271,
-    "timeYear": 303,
-    "dailyMinutesDown": {
-      "2026-02-27": 15
-    }
+    "timeDay": 276,
+    "timeWeek": 280,
+    "timeMonth": 276,
+    "timeYear": 304,
+    "dailyMinutesDown": {}
   }
 ]
