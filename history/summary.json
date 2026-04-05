@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 355,
-    "timeWeek": 273,
-    "timeMonth": 303,
-    "timeYear": 348,
+    "timeDay": 338,
+    "timeWeek": 298,
+    "timeMonth": 299,
+    "timeYear": 347,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "47.45%",
+    "uptime": "47.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "26.06%",
+    "uptimeYear": "26.34%",
     "time": 198,
-    "timeDay": 509,
-    "timeWeek": 481,
-    "timeMonth": 454,
+    "timeDay": 364,
+    "timeWeek": 467,
+    "timeMonth": 449,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2026-02-26": 21,
@@ -304,8 +304,7 @@
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
-      "2025-04-06": 1440,
-      "2025-04-05": 1440
+      "2025-04-06": 1440
     }
   },
   {
@@ -319,10 +318,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 130,
-    "timeDay": 187,
-    "timeWeek": 143,
-    "timeMonth": 129,
+    "time": 131,
+    "timeDay": 302,
+    "timeWeek": 154,
+    "timeMonth": 133,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2026-01-28": 20,
@@ -343,8 +342,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 265,
-    "timeWeek": 191,
+    "timeDay": 266,
+    "timeWeek": 188,
     "timeMonth": 172,
     "timeYear": 201,
     "dailyMinutesDown": {}
@@ -361,8 +360,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 221,
-    "timeWeek": 236,
+    "timeDay": 300,
+    "timeWeek": 233,
     "timeMonth": 267,
     "timeYear": 299,
     "dailyMinutesDown": {}
