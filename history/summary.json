@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 357,
-    "timeWeek": 267,
-    "timeMonth": 281,
-    "timeYear": 343,
+    "time": 330,
+    "timeDay": 424,
+    "timeWeek": 280,
+    "timeMonth": 284,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "47.95%",
+    "uptime": "47.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.63%",
-    "time": 207,
-    "timeDay": 362,
-    "timeWeek": 491,
-    "timeMonth": 459,
-    "timeYear": 241,
+    "uptimeYear": "29.90%",
+    "time": 208,
+    "timeDay": 621,
+    "timeWeek": 506,
+    "timeMonth": 465,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2026-02-26": 21,
       "2026-01-22": 41,
@@ -291,8 +291,7 @@
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
-      "2025-04-19": 1440,
-      "2025-04-18": 1440
+      "2025-04-19": 1440
     }
   },
   {
@@ -307,9 +306,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 89,
-    "timeWeek": 116,
-    "timeMonth": 138,
+    "timeDay": 82,
+    "timeWeek": 109,
+    "timeMonth": 136,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2026-01-28": 20,
@@ -330,10 +329,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 209,
-    "timeWeek": 179,
-    "timeMonth": 190,
-    "timeYear": 203,
+    "timeDay": 282,
+    "timeWeek": 196,
+    "timeMonth": 192,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   },
   {
@@ -348,9 +347,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 329,
-    "timeWeek": 304,
-    "timeMonth": 285,
+    "timeDay": 171,
+    "timeWeek": 280,
+    "timeMonth": 278,
     "timeYear": 301,
     "dailyMinutesDown": {}
   }
