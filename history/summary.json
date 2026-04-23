@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "48.18%",
+    "uptime": "48.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.34%",
+    "uptimeYear": "31.35%",
     "time": 211,
     "timeDay": 392,
     "timeWeek": 462,
@@ -335,19 +335,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 304,
-    "timeDay": 246,
-    "timeWeek": 263,
-    "timeMonth": 273,
-    "timeYear": 300,
+    "timeDay": 317,
+    "timeWeek": 285,
+    "timeMonth": 279,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2026-04-23": 0
+      "2026-04-23": 40
     }
   }
 ]
