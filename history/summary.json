@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 391,
-    "timeWeek": 338,
-    "timeMonth": 290,
-    "timeYear": 342,
+    "time": 330,
+    "timeDay": 147,
+    "timeWeek": 292,
+    "timeMonth": 280,
+    "timeYear": 341,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "48.25%",
+    "uptime": "48.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.82%",
+    "uptimeYear": "32.09%",
     "time": 213,
-    "timeDay": 375,
-    "timeWeek": 444,
-    "timeMonth": 472,
-    "timeYear": 249,
+    "timeDay": 501,
+    "timeWeek": 438,
+    "timeMonth": 471,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2026-02-26": 21,
       "2026-01-22": 41,
@@ -283,8 +283,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   },
   {
@@ -299,9 +298,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 89,
-    "timeWeek": 108,
-    "timeMonth": 127,
+    "timeDay": 96,
+    "timeWeek": 107,
+    "timeMonth": 124,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2026-01-28": 20,
@@ -322,9 +321,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 108,
-    "timeWeek": 168,
-    "timeMonth": 187,
+    "timeDay": 110,
+    "timeWeek": 143,
+    "timeMonth": 180,
     "timeYear": 202,
     "dailyMinutesDown": {}
   },
@@ -340,10 +339,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 304,
-    "timeDay": 386,
-    "timeWeek": 310,
-    "timeMonth": 281,
-    "timeYear": 300,
+    "timeDay": 97,
+    "timeWeek": 296,
+    "timeMonth": 274,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2026-04-23": 40
     }
