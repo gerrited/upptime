@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 342,
-    "timeWeek": 282,
-    "timeMonth": 282,
-    "timeYear": 342,
+    "timeDay": 380,
+    "timeWeek": 315,
+    "timeMonth": 289,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "48.51%",
+    "uptime": "48.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "33.73%",
-    "time": 222,
-    "timeDay": 394,
-    "timeWeek": 557,
-    "timeMonth": 495,
-    "timeYear": 260,
+    "uptimeYear": "34.00%",
+    "time": 223,
+    "timeDay": 548,
+    "timeWeek": 562,
+    "timeMonth": 496,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2026-05-01": 3,
       "2026-04-30": 18,
@@ -279,8 +279,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   },
   {
@@ -295,10 +294,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 89,
-    "timeWeek": 88,
-    "timeMonth": 113,
-    "timeYear": 138,
+    "timeDay": 138,
+    "timeWeek": 94,
+    "timeMonth": 114,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2026-01-28": 20,
       "2025-06-29": 17,
@@ -318,9 +317,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 114,
-    "timeWeek": 136,
-    "timeMonth": 172,
+    "timeDay": 201,
+    "timeWeek": 149,
+    "timeMonth": 177,
     "timeYear": 202,
     "dailyMinutesDown": {}
   },
@@ -336,10 +335,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 304,
-    "timeDay": 374,
-    "timeWeek": 331,
-    "timeMonth": 296,
-    "timeYear": 298,
+    "timeDay": 395,
+    "timeWeek": 374,
+    "timeMonth": 304,
+    "timeYear": 297,
     "dailyMinutesDown": {
       "2026-04-23": 40
     }
