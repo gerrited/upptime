@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 221,
-    "timeWeek": 302,
-    "timeMonth": 277,
+    "timeDay": 474,
+    "timeWeek": 301,
+    "timeMonth": 291,
     "timeYear": 342,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
     "status": "up",
-    "uptime": "48.69%",
+    "uptime": "48.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "35.10%",
-    "time": 226,
-    "timeDay": 436,
-    "timeWeek": 603,
-    "timeMonth": 504,
-    "timeYear": 265,
+    "uptimeYear": "35.37%",
+    "time": 227,
+    "timeDay": 562,
+    "timeWeek": 497,
+    "timeMonth": 509,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2026-05-01": 3,
       "2026-04-30": 18,
@@ -274,8 +274,7 @@
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
-      "2025-05-09": 1440,
-      "2025-05-08": 1440
+      "2025-05-09": 1440
     }
   },
   {
@@ -289,10 +288,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 131,
-    "timeDay": 59,
-    "timeWeek": 99,
-    "timeMonth": 102,
+    "time": 130,
+    "timeDay": 70,
+    "timeWeek": 95,
+    "timeMonth": 101,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2026-01-28": 20,
@@ -313,8 +312,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 37,
-    "timeWeek": 164,
+    "timeDay": 200,
+    "timeWeek": 176,
     "timeMonth": 169,
     "timeYear": 203,
     "dailyMinutesDown": {}
@@ -331,10 +330,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 304,
-    "timeDay": 444,
-    "timeWeek": 384,
-    "timeMonth": 312,
-    "timeYear": 299,
+    "timeDay": 86,
+    "timeWeek": 322,
+    "timeMonth": 305,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2026-04-23": 40
     }
