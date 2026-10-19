@@ -22,17 +22,17 @@
     "url": "https://k3s.g11s.cc/WeatherForecast",
     "icon": "https://icons.duckduckgo.com/ip3/k3s.g11s.cc.ico",
     "slug": "k3s-weather-forecast",
-    "status": "down",
-    "uptime": "53.97%",
-    "uptimeDay": "16.11%",
-    "uptimeWeek": "80.11%",
-    "uptimeMonth": "92.97%",
+    "status": "up",
+    "uptime": "53.95%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "74.01%",
+    "uptimeMonth": "91.57%",
     "uptimeYear": "79.75%",
-    "time": 354,
-    "timeDay": 188,
-    "timeWeek": 337,
-    "timeMonth": 468,
-    "timeYear": 416,
+    "time": 358,
+    "timeDay": 929,
+    "timeWeek": 471,
+    "timeMonth": 503,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2025-12-28": 1243,
       "2025-12-27": 1440,
@@ -116,7 +116,7 @@
       "2026-10-10": 190,
       "2026-10-18": 1208,
       "2026-10-17": 574,
-      "2026-10-19": 223
+      "2026-10-19": 838
     }
   },
   {
